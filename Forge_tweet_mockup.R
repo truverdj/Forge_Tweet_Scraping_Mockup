@@ -11,6 +11,7 @@ accounts[[2]] = "billmaher"
 accounts[[3]] = "DukeForge"
 accounts[[4]] = "VictoriHealth"
 accounts[[5]] = "realDonaldTrump"
+# accounts[[6]] = "califf001"
 
 all_tweets = data_frame()
 for(userID in accounts){
